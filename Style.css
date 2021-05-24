@@ -1,0 +1,46 @@
+body {
+    font-size: 120%;
+    font-family: Tahoma;
+    background-image: url(Kepek/Little_Nightmares_02.png);
+    background-position: center;
+    background-size: cover;
+}
+
+main {
+    background-color: rgba(0, 0, 0, 90%);
+}
+
+header {
+    background-color: rgba(0, 0, 0, 90%);
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 90%);
+}
+
+h6 {
+    text-align: right;
+}
+
+table,
+th,
+td {
+    border: 2px solid silver;
+    text-align: center;
+    font-size: 110%;
+    vertical-align: middle;
+}
+
+a:link {
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgba(173, 186, 228, 0.247);
+}
+
+a:hover {
+    color: rgb(255, 254, 170);
+}
